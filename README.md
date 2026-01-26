@@ -493,6 +493,6 @@ Built with PyTorch ❤️
 **"When reality fades, the dream persists."**
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/dark-lucid-protocol?style=social)](https://github.com/Devanik21/dark-lucid-protocol)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/devanik2005)
 
 </div>
