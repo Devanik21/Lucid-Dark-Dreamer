@@ -1,4 +1,4 @@
-# 🌌 The Dark Lucid Protocol
+# The Dark Lucid Protocol
 
 <div align="center">
 
