@@ -476,10 +476,10 @@ Open source under the [Apache 2.0 License](LICENSE).
 ## 🖋️ Citation
 
 ```bibtex
-@article{debnath2026darklucid,
+@article{debnath2025darklucid,
   title     = {Dark Lucid Protocol: Meta-Cognitive Reinforcement Learning Through Internal World Models},
   author    = {Debnath, Devanik},
-  year      = {2026},
+  year      = {2025},
   note      = {Preprint. https://github.com/Devanik21/dark-lucid-protocol},
   institute = {National Institute of Technology Agartala}
 }
