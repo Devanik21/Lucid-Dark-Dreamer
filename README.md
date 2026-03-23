@@ -456,24 +456,34 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 📚 Citation
+## Author
 
-If you use this work, please cite:
+**Devanik Debnath**  
+B.Tech, Electronics & Communication Engineering  
+National Institute of Technology Agartala
 
-```bibtex
-@article{darklucid2026,
-  title={The Dark Lucid Protocol: Meta-Cognitive Reinforcement Learning Through Internal World Models},
-  author={[Devanik]},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
-}
-```
+[![GitHub](https://img.shields.io/badge/GitHub-Devanik21-black?style=flat-square&logo=github)](https://github.com/Devanik21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devanik-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devanik/)
 
 ---
 
-## 📄 License
+## License
 
-MIT License - see [LICENSE](LICENSE) file for details.
+Open source under the [Apache 2.0 License](LICENSE).
+
+---
+
+## Citation
+
+```bibtex
+@article{debnath2025hagmoe,
+  title     = {HAG-MoE: Hierarchical Attention-Gated Mixture of Experts},
+  author    = {Debnath, Devanik},
+  year      = {2025},
+  note      = {Preprint. https://github.com/Devanik21/HAG-MoE},
+  institute = {National Institute of Technology Agartala}
+}
+```
 
 ---
 
