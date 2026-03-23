@@ -1,18 +1,18 @@
-# The Dark Lucid Protocol
+# The Dark Lucid GeNEsIS
 
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-5.2-00FFCC?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-Titan%20Clad-gold?style=for-the-badge)
 
 **Meta-Cognitive Reinforcement Learning Through Internal World Models**
 
 *When the sensors fail, the dream persists.*
 
-[Documentation](#-theory) • [Installation](#-installation) • [Experiments](#-the-omniverse) • [Results](#-empirical-validation)
+[Overview](#-overview) • [Theory](#-theory) • [Installation](#-installation) • [Experiments](#-the-omniverse) • [Results](#-empirical-validation)
 
 ---
 
@@ -27,7 +27,7 @@ The **Dark Lucid Protocol** is a novel reinforcement learning architecture that 
 | Challenge Domain | Standard DQN | Dark Lucid v5.2 | Improvement |
 |:-----------------|-------------:|----------------:|------------:|
 | **Memory** (Non-stationary) | 28.31 | **93.90** | **+231.7%** |
-| **Exploration** (Blind) | 8.07 | **89.07** | **+1003.4%** |
+| **Exploration** (Blind) | 8.07 | **89.07** | **+1003.7%** |
 | **Reasoning** (Deceptive) | 36.63 | **96.99** | **+164.8%** |
 | **Filtering** (High-Dim Noise) | 53.40 | **94.09** | **+76.2%** |
 | **Permanence** (Sensor Failure) | 58.50 | **99.37** | **+69.9%** |
@@ -44,7 +44,7 @@ The **Dark Lucid Protocol** is a novel reinforcement learning architecture that 
 
 ### Core Architecture
 
-The Dark Lucid Protocol consists of five integrated subsystems:
+The Dark Lucid GeNEsIS consists of five integrated subsystems:
 
 #### 1. **Universal Encoder** $E: \mathcal{O} \rightarrow \mathcal{Z}$
 
@@ -215,7 +215,7 @@ CUDA >= 11.0 (for GPU acceleration)
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/dark-lucid-protocol.git
+git clone https://github.com/Devanik21/dark-lucid-protocol.git
 cd dark-lucid-protocol
 
 # Install dependencies
@@ -456,7 +456,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## Author
+## 👤 Author
 
 **Devanik Debnath**  
 B.Tech, Electronics & Communication Engineering  
@@ -467,20 +467,20 @@ National Institute of Technology Agartala
 
 ---
 
-## License
+## 📄 License
 
 Open source under the [Apache 2.0 License](LICENSE).
 
 ---
 
-## Citation
+## 🖋️ Citation
 
 ```bibtex
-@article{debnath2025hagmoe,
-  title     = {HAG-MoE: Hierarchical Attention-Gated Mixture of Experts},
+@article{debnath2026darklucid,
+  title     = {Dark Lucid Protocol: Meta-Cognitive Reinforcement Learning Through Internal World Models},
   author    = {Debnath, Devanik},
-  year      = {2025},
-  note      = {Preprint. https://github.com/Devanik21/HAG-MoE},
+  year      = {2026},
+  note      = {Preprint. https://github.com/Devanik21/dark-lucid-protocol},
   institute = {National Institute of Technology Agartala}
 }
 ```
@@ -502,7 +502,7 @@ Built with PyTorch ❤️
 
 **"When reality fades, the dream persists."**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/dark-lucid-protocol?style=social)](https://github.com/Devanik21/dark-lucid-protocol)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Devanik?style=social)](https://twitter.com/devanik2005)
+[![GitHub stars](https://img.shields.io/github/stars/Devanik21/dark-lucid-protocol?style=social)](https://github.com/Devanik21/dark-lucid-protocol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/devanik2005?style=social)](https://twitter.com/devanik2005)
 
 </div>
